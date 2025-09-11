@@ -1,10 +1,10 @@
 import React from 'react'
-import TechHeroSection from '../../components/hero/TechHeroSection';
+import AirQualityHero from "@/components/air-quality-hero/AirQualityHero.jsx";
 
 function Home() {
   return (
     <div>
-        <TechHeroSection />
+        <AirQualityHero />
     </div>
 
   )
